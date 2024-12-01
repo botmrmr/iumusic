@@ -82,7 +82,7 @@ confirmer = {}
 ANK = AMK + 9515
 
 
-START_IMG_URL = "https://telegra.ph/file/bd37c7511de90f2b643f4.jpg"
+START_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
 PING_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
 PLAYLIST_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
 STATS_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
