@@ -41,9 +41,9 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-CHANNEL_NAME = getenv("CHANNEL_NAME", "تحديثات سورس نجد 🧚🏻‍♀️")
-CHANNEL_LINK = getenv("CHANNEL_LINK", "NJD_0")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NJD_0")
+CHANNEL_NAME = getenv("CHANNEL_NAME", "تحديثات السورس  🧚🏻‍♀️")
+CHANNEL_LINK = getenv("CHANNEL_LINK", "mrmr_yy")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "t.me/mrmr_yy")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -82,18 +82,18 @@ confirmer = {}
 ANK = AMK + 9515
 
 
-START_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-PING_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-PLAYLIST_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-STATS_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-TELEGRAM_AUDIO_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-TELEGRAM_VIDEO_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-STREAM_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-SOUNCLOUD_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-YOUTUBE_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-SPOTIFY_ARTIST_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-SPOTIFY_ALBUM_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
-SPOTIFY_PLAYLIST_IMG_URL = "https://forkgraph.zaid.pro/file/cM0IFUOfvyTW"
+START_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+PING_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/040dacb75aac1b7b4a640.jpg"
 
 DAV = ANK
 def time_to_seconds(time):
