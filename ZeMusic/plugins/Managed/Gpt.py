@@ -6,7 +6,7 @@ from ZeMusic import app
 from pyrogram.enums import ChatAction, ParseMode
 from pyrogram import filters
 
-@app.on_message(filters.command(["رون"],""))
+@app.on_message(filters.command(["نجد"],""))
 async def chat_gpt(bot, message):
     try:
         start_time = time.time()
@@ -14,7 +14,7 @@ async def chat_gpt(bot, message):
 
         if len(message.command) < 2:
             await message.reply_text(
-                "⟡ استخدم الأمر هكذا :\n\n ⟡ رون + سؤالك"
+                "⟡ استخدم الأمر هكذا :\n\n ⟡ نجد + سؤالك"
             )
         else:
             a = message.text.split(' ', 1)[1]
