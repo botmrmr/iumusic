@@ -6,7 +6,7 @@ from ZeMusic import app
 
 @app.on_message(filters.regex(r"^(المبرمج|مبرمج السورس|مبرمج|مطور السورس)$"))
 async def huhh(c: Client, m: Message):
-    dev_id = 5145609515
+    dev_id = 7085943284
     usr = await c.get_users(dev_id)
     name = usr.first_name
     usrnam = usr.username
