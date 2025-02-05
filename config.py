@@ -12,7 +12,7 @@ API_HASH = getenv("API_HASH","986cb4ba434870a62fe96da3b5f6d411")
 
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
-BOT_NAME = getenv("BOT_NAME","زوزي")
+BOT_NAME = getenv("BOT_NAME","نجد")
 GPT_NAME = getenv("GPT_NAME","")
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://Music:Music@cluster0.yjgit72.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -42,8 +42,8 @@ GIT_TOKEN = getenv(
 )  # Fill this variable if your upstream repository is private
 
 CHANNEL_NAME = getenv("CHANNEL_NAME", "تحديثات السورس  🧚🏻‍♀️")
-CHANNEL_LINK = getenv("CHANNEL_LINK", "mrmr_yy")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/mrmr_yy")
+CHANNEL_LINK = getenv("CHANNEL_LINK", "https://t.me/ngd_i")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ngd_i")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
